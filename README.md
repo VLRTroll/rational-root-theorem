@@ -15,3 +15,7 @@ _(This is just a demo for study purposes.)_
 ## Technologies for future projects
 1. [Desmos API](https://www.desmos.com/api/v1.5/docs/index.html) 📈
 1. [Katex](https://katex.org/) 🔣
+
+---
+
+<p align="center">Made with ❤️ by <strong>VLRTroll :alien: </p>
